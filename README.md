@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RxoMTH
-- 👀 I’m interested in programming, scratch, python, mathematics, game development, and software engineering
-- 🌱 I’m currently learning scratch and python.
-- 💞️ I’m looking to collaborate whenever I already have much experience
+- 👋 Hi, I’m @RxoMTH.
+- 👀 I’m interested in Computer Science, Programming, Scratch, Python, Mathematics, Game Development, and Software Engineering.
+- 🌱 I’m currently learning Scratch and Python.
+- 💞️ I’m looking to collaborate whenever I already have much experience.
 - 📫 How to reach me ...
 
 <!---
